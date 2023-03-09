@@ -1067,3 +1067,9 @@ the website, in dark theme
     right: 3rem;
   }
 }
+
+@media screen and (max-width: 500px) {
+  .button--flex {
+    margin-bottom: -30px;
+  }
+}
