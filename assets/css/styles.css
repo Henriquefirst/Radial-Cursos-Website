@@ -658,6 +658,10 @@ the website, in dark theme
   font-weight: var(--font-medium);
 }
 
+.link__color {
+  color: var(--title-color);
+}
+
 .contact__icon {
   font-size: 1.25rem;
 }
